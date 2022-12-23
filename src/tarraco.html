@@ -10,8 +10,18 @@
   </head>
   <body>
     <header>
+      <div class="logodiv">
+        <img class="lazyload logoimg" src="images/logo_png.png" alt="logo empresa">
+        <p class="logotext">Tota la informació que necessites al teu abast</p> 
+      </div>
       <div class="container">
-        <a href="index.html"><img class="lazyload" src="images/tarragona1.jpg" alt="tarragonaciutat" width=100% height="400"></a>
+        <a href="index.html">
+          <picture>
+            <source media="(max-width: 549px)" srcset="images/amfiteatre2_ver.jpg" />
+            <source media="(min-width: 550px)" srcset="images/amfiteatre2.jpg" />
+            <img src="images/amfiteatre2.jpg" alt="catedral" width=100% height="400" />
+          </picture>
+        </a>
         <button onclick="buttonFunction()" id="btn">Menú</button>
         <nav id="nav">
           <ul>
@@ -30,6 +40,10 @@
     </header>
     <main>
         <h3>Tarraco</h3>
+        <div>
+          <img class="lazyload imgelip" src="images/augustus.jpg" alt="Augustus emperador" height="100" >
+          <p class="textautor">Foto de Nemanja Peric en Unsplash</p>
+        </div>
         <ul class="tarraco_list">
             <li class="multiline_color">Maqueta de Tarraco: maqueta elaborada pel Museu d'Història de Tarragona, on es representa la ciutat romana de Tàrraco a l'època del seu màxim apogeu.</li>
             <li class="multiline_color">Mullara: la seva longitud era d'uns 3.500 m, dels quals se'n conserven actualment 1.100, que envolten el nucli antic.</li>
@@ -38,6 +52,10 @@
             <li class="multiline_color">Circ: es disputaven les curses de carros, generalment de dos cavalls (bigues) o de quatre (quadrigues). El circ de Tarragona està entre els més ben conservats d'Occident.</li>
             <li class="multiline_color">Amfiteatre:  era un edifici d'espectacles on hi havia lluites de feres, caceres, execucions públiques i combats de gladiadors.</li>
             <li class="multiline_color">Foro local: era el centre de la vida ciutadana. Al voltant d'una gran plaça s'alçaven els edificis principals de la ciutat: la cúria, la basílica, els temples i nombroses botigues.</li>
+            <div>
+              <img class="lazyload imgquad" src="images/casc_antic.jpg" alt="Imatge del casc àntic" height="100" >
+              <p class="textautor">Foto de Nemanja Peric en Unsplash</p>
+            </div>
             <li class="multiline_color">Teatre: va ser el primer a ser construït, ja en època d'August. Edificat sobre uns antics magatzems portuaris, disposava d´un ampli sector semicircular de grades dividides en tres càvees orientades cap a l´escenari.</li>
         </ul>
         <div class="center_title">
@@ -50,14 +68,25 @@
           <p>Treball fet per Genís Pijuan Casanova</p>
           <p>Assignatura de Eines HTML i CSS aula 1</p>
           <p>Professora Mariona Roca Ros</p>
+          <img class="lazyload" src="images/logo_png.png" alt="logo empresa">
         </div>
         <div  class="grid-item">
-          <p>Fonts d'informació</p>
-          <p><a href="https://ca.wikipedia.org/wiki/Tarragona">Wikipedia de Tarragona</a></p>
-          <p></p><a href="https://ca.wikipedia.org/wiki/Conjunt_arqueol%C3%B2gic_de_T%C3%A0rraco">Tarraco</a></p>
-          <p></p><a href="https://ca.wikipedia.org/wiki/Rambla_Nova_de_Tarragona">Rambla de Tarragona</a></p>
-          <p></p><a href="https://ca.wikipedia.org/wiki/Catedral_de_Tarragona">Catedral de Tarragona</a></p>
-          <p></p><a href="https://pixabay.com/">pixabay</a></p>
+          <p>FONTS D'INFORMACIÓ</p>
+          <p><a class="linkcolor" href="https://ca.wikipedia.org/wiki/Tarragona">Wikipedia de Tarragona</a></p>
+          <p><a class="linkcolor" href="https://ca.wikipedia.org/wiki/Conjunt_arqueol%C3%B2gic_de_T%C3%A0rraco">Tarraco</a></p>
+          <p><a class="linkcolor" href="https://ca.wikipedia.org/wiki/Rambla_Nova_de_Tarragona">Rambla de Tarragona</a></p>
+          <p><a class="linkcolor" href="https://ca.wikipedia.org/wiki/Catedral_de_Tarragona">Catedral de Tarragona</a></p>
+          <p><a class="linkcolor" href="https://pixabay.com/">pixabay</a></p>
+        </div>
+        <div  class="grid-item">
+          <p>PÀGINES</p>
+          <p><a class="linkcolor" href="index.html">Index</a></p>
+          <p><a class="linkcolor"  href="tarraco.html">Tarraco</a></p>
+          <p><a class="linkcolor"  href="catedral.html">Catedral</a></p>
+          <p><a class="linkcolor"  href="rambla.html">Rambla nova</a></p>
+          <p><a class="linkcolor"  href="historia.html">Historia</a></p>
+          <p><a class="linkcolor"  href="links.html">Links</a></p>
+          <p><a class="linkcolor"  href="visitar.html">Visitar</a></p>
         </div>
       </div>
     </footer>

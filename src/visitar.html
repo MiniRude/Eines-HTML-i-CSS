@@ -10,8 +10,26 @@
   </head>
   <body>
     <header>
+      <div class="logodiv">
+        <img class="lazyload logoimg" src="images/logo_png.png" alt="logo empresa">
+        <p class="logotext">Tota la informació que necessites al teu abast</p> 
+      </div>
       <div class="container">
-        <a href="index.html"><img class="lazyload" src="images/tarragona1.jpg" alt="tarragonaciutat" width=100% height="400"></a>
+        <a href="index.html">
+          <picture>
+            <source media="(max-width: 549px)" srcset="images/tarragona1_ver.jpg" />
+            <source media="(min-width: 550px)" srcset="images/tarragona1.jpg" />
+            <img src="images/tarragona1.jpg" alt="catedral" width=100% height="400" />
+          </picture>
+        </a>
+        <!--<a href="index.html"><img class="lazyload" 
+          srcset="images/tarragona1.jpg 320w,
+          images/tarragona1.jpg 480w,
+          images/tarragona1.jpg 800w"
+          sizes="(max-width: 320px) 280px,
+          (max-width: 480px) 440px,
+          800px"
+          src="images/tarragona1.jpg" alt="tarragonaciutat" width=100% height="400"></a>-->
         <button onclick="buttonFunction()" id="btn">Menú</button>
         <nav id="nav">
           <ul>
@@ -31,19 +49,37 @@
     <main>
       <div class="detall">
           <a href="tarraco.html"><h1>Tarraco</h1></a>
-          <img class="img_detall lazyload" src="images/amfiteatre2.jpg" alt="amfiteatre" width="200px" height="150px">
+          <img class="img_detall lazyload animation_small" 
+            srcset="images/amfiteatre2.jpg 320w,
+            images/amfiteatre2.jpg 480w,
+            images/amfiteatre2.jpg 800w"
+            sizes="(max-width: 320px) 280px,
+            (max-width: 480px) 440px, 800px" 
+          src="images/amfiteatre2.jpg" alt="amfiteatre" width="200px" height="150px">
           <p>Declarat Patrimoni de la Humanitat per la UNESCO el 30 de novembre de l'any 2000. Comprèn 14 monuments, 11 dels quals estan situats dins del municipi.</p>
           <div class="reset"></div>
       </div>
       <div class="detall">
         <a href="catedral.html"><h1>Catedral</h1></a>
-        <img class="img_detall lazyload" src="images/catedral.jpg" alt="catedral" width="200px" height="150px">
+        <img class="img_detall lazyload animation_small"
+          srcset="images/catedral.jpg 320w,
+          images/catedral.jpg 480w,
+          images/catedral.jpg 800w"
+          sizes="(max-width: 320px) 280px,
+          (max-width: 480px) 440px, 800px"
+        src="images/catedral.jpg" alt="catedral" width="200px" height="150px">
         <p>Situada en el punt més alt de la ciutat, a uns 60 m sobre el nivell del mar. La catedral fou construïda sobre l'antic temple romà, aprofitant carreus romans i fins i tot algun sarcòfag, com el que es veu a la façana, a la dreta de la porta principal.</p>
         <div class="reset"></div>
       </div>
       <div class="detall">
         <a href="rambla.html"><h1>Rambla Nova</h1></a>
-        <img class="img_detall lazyload" src="images/castellers.jpg" alt="monument castellers" width="200px" height="150px">
+        <img class="img_detall lazyload animation_small" 
+          srcset="images/barriantic.jpg 320w,
+          images/barriantic.jpg 480w,
+          images/barriantic.jpg 800w"
+          sizes="(max-width: 320px) 280px,
+          (max-width: 480px) 440px, 800px"
+        src="images/barriantic.jpg" alt="barri antic" width="200px" height="150px">
         <p>És el passeig més important de Tarragona i fou construïda a meitats del segle xix. Al voltant de la Rambla s'organitza l'Eixample de Tarragona.</p>
         <div class="reset"></div>
       </div>
@@ -54,14 +90,25 @@
           <p>Treball fet per Genís Pijuan Casanova</p>
           <p>Assignatura de Eines HTML i CSS aula 1</p>
           <p>Professora Mariona Roca Ros</p>
+          <img class="lazyload" src="images/logo_png.png" alt="logo empresa">
         </div>
         <div  class="grid-item">
-          <p>Fonts d'informació</p>
-          <p><a href="https://ca.wikipedia.org/wiki/Tarragona">Wikipedia de Tarragona</a></p>
-          <p></p><a href="https://ca.wikipedia.org/wiki/Conjunt_arqueol%C3%B2gic_de_T%C3%A0rraco">Tarraco</a></p>
-          <p></p><a href="https://ca.wikipedia.org/wiki/Rambla_Nova_de_Tarragona">Rambla de Tarragona</a></p>
-          <p></p><a href="https://ca.wikipedia.org/wiki/Catedral_de_Tarragona">Catedral de Tarragona</a></p>
-          <p></p><a href="https://pixabay.com/">pixabay</a></p>
+          <p>FONTS D'INFORMACIÓ</p>
+          <p><a class="linkcolor" href="https://ca.wikipedia.org/wiki/Tarragona">Wikipedia de Tarragona</a></p>
+          <p><a class="linkcolor" href="https://ca.wikipedia.org/wiki/Conjunt_arqueol%C3%B2gic_de_T%C3%A0rraco">Tarraco</a></p>
+          <p><a class="linkcolor" href="https://ca.wikipedia.org/wiki/Rambla_Nova_de_Tarragona">Rambla de Tarragona</a></p>
+          <p><a class="linkcolor" href="https://ca.wikipedia.org/wiki/Catedral_de_Tarragona">Catedral de Tarragona</a></p>
+          <p><a class="linkcolor" href="https://pixabay.com/">pixabay</a></p>
+        </div>
+        <div  class="grid-item">
+          <p>PÀGINES</p>
+          <p><a class="linkcolor" href="index.html">Index</a></p>
+          <p><a class="linkcolor"  href="tarraco.html">Tarraco</a></p>
+          <p><a class="linkcolor"  href="catedral.html">Catedral</a></p>
+          <p><a class="linkcolor"  href="rambla.html">Rambla nova</a></p>
+          <p><a class="linkcolor"  href="historia.html">Historia</a></p>
+          <p><a class="linkcolor"  href="links.html">Links</a></p>
+          <p><a class="linkcolor"  href="visitar.html">Visitar</a></p>
         </div>
       </div>
     </footer>

@@ -10,8 +10,18 @@
   </head>
   <body>
     <header>
+      <div class="logodiv">
+        <img class="lazyload logoimg" src="images/logo_png.png" alt="logo empresa">
+        <p class="logotext">TOTA LA INFORMACIÓ QUE NECESSITES AL TEU ABAST</p> 
+      </div>
       <div class="container">
-        <a href="index.html"><img class="lazyload" src="images/tarragona1.jpg" alt="tarragonaciutat" width=100% height="400"></a>
+        <a href="index.html">
+          <picture>
+            <source media="(max-width: 549px)" srcset="images/tarragona1_ver.jpg" />
+            <source media="(min-width: 550px)" srcset="images/tarragona1.jpg" />
+            <img src="images/tarragona1.jpg" alt="Foto de tarragona" width=100% height="400" />
+          </picture>
+        </a>
         <button onclick="buttonFunction()" id="btn">Menú</button>
         <nav id="nav">
           <ul>
@@ -41,6 +51,10 @@
       <p>
         Fundada al segle iii aC amb el nom de Tàrraco, té un important port de mar i és el centre del Complex Petroquímic de Tarragona, un dels més importants del sud d'Europa. 
       </p>
+      <div>
+        <img class="lazyload imgCercle" src="images/augustus.jpg" alt="foto de Augustus emperador" height="100" >
+        <p class="textautor">Foto de Nemanja Peric en Unsplash</p>
+      </div>
       <p>
         Els romans la feren capital de la província Tarraconense, motiu pel qual encara conserva notables restes arqueològiques d'aquesta època que han estat declarades Patrimoni de la Humanitat per la Unesco.
       </p>
@@ -58,14 +72,25 @@
           <p>Treball fet per Genís Pijuan Casanova</p>
           <p>Assignatura de Eines HTML i CSS aula 1</p>
           <p>Professora Mariona Roca Ros</p>
+          <img class="lazyload" src="images/logo_png.png" alt="logo empresa">
         </div>
         <div  class="grid-item">
-          <p>Fonts d'informació</p>
-          <p><a href="https://ca.wikipedia.org/wiki/Tarragona">Wikipedia de Tarragona</a></p>
-          <p></p><a href="https://ca.wikipedia.org/wiki/Conjunt_arqueol%C3%B2gic_de_T%C3%A0rraco">Tarraco</a></p>
-          <p></p><a href="https://ca.wikipedia.org/wiki/Rambla_Nova_de_Tarragona">Rambla de Tarragona</a></p>
-          <p></p><a href="https://ca.wikipedia.org/wiki/Catedral_de_Tarragona">Catedral de Tarragona</a></p>
-          <p></p><a href="https://pixabay.com/">pixabay</a></p>
+          <p>FONTS D'INFORMACIÓ</p>
+          <p><a class="linkcolor" href="https://ca.wikipedia.org/wiki/Tarragona">Wikipedia de Tarragona</a></p>
+          <p><a class="linkcolor" href="https://ca.wikipedia.org/wiki/Conjunt_arqueol%C3%B2gic_de_T%C3%A0rraco">Tarraco</a></p>
+          <p><a class="linkcolor" href="https://ca.wikipedia.org/wiki/Rambla_Nova_de_Tarragona">Rambla de Tarragona</a></p>
+          <p><a class="linkcolor" href="https://ca.wikipedia.org/wiki/Catedral_de_Tarragona">Catedral de Tarragona</a></p>
+          <p><a class="linkcolor" href="https://pixabay.com/">pixabay</a></p>
+        </div>
+        <div  class="grid-item">
+          <p>PÀGINES</p>
+          <p><a class="linkcolor" href="index.html">Index</a></p>
+          <p><a class="linkcolor"  href="tarraco.html">Tarraco</a></p>
+          <p><a class="linkcolor"  href="catedral.html">Catedral</a></p>
+          <p><a class="linkcolor"  href="rambla.html">Rambla nova</a></p>
+          <p><a class="linkcolor"  href="historia.html">Historia</a></p>
+          <p><a class="linkcolor"  href="links.html">Links</a></p>
+          <p><a class="linkcolor"  href="visitar.html">Visitar</a></p>
         </div>
       </div>
     </footer>

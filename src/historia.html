@@ -10,8 +10,18 @@
   </head>
   <body>
     <header>
+      <div class="logodiv">
+        <img class="lazyload logoimg" src="images/logo_png.png" alt="logo empresa">
+        <p class="logotext">Tota la informació que necessites al teu abast</p> 
+      </div>
       <div class="container">
-        <a href="index.html"><img class="lazyload" src="images/tarragona1.jpg" alt="tarragonaciutat" width=100% height="400"></a>
+        <a href="index.html">
+          <picture>
+            <source media="(max-width: 549px)" srcset="images/tarragona1_ver.jpg" />
+            <source media="(min-width: 550px)" srcset="images/tarragona1.jpg" />
+            <img src="images/tarragona1.jpg" alt="catedral" width=100% height="400" />
+          </picture>
+        </a>
         <button onclick="buttonFunction()" id="btn">Menú</button>
         <nav id="nav">
           <ul>
@@ -30,8 +40,11 @@
     </header>
     <main>
       <div class="center_title">
-          <h1>TARRAGONA! anteriorment TARRACO!</h1>
-          <iframe width="100%" height="315" src="https://www.youtube.com/embed/E3DS6LHCc10" title="vista aerea Tarragona YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>            </div>
+          <h2>TARRAGONA! anteriorment TARRACO!</h2>
+      </div>
+      <div class="animation">
+        <img class="lazyload" src="images/map_svg.svg" alt="mapa Tarragona">
+      </div>
       <h3>Localització</h3>
       <div class="wrapper">
           <p class="one">Estat</p>
@@ -50,14 +63,15 @@
           <p class="five">Gentilici</p>
           <p class="six">Tarragoní/Tarragonina</p>
       </div>
-      <div class="detall">
-          <h1>Època antiga</h1>
+      <iframe class="margin" width="100%" height="315" src="https://www.youtube.com/embed/E3DS6LHCc10" title="vista aerea Tarragona YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <div class="detall color_change">
+          <h2>Època antiga</h2>
           <img class="img_detall lazyload" src="images/aqueducte1.jpg" alt="aqueducte" width="200px" height="150px">
           <p>Les primeres notícies d'habitació a la zona de Tarragona són del segle iii aC, quan hi havia una població ibera, de nom Kesse, que donà nom als cossetans, tribu que habitava el Camp de Tarragona. La localització concreta de Kesse és una qüestió polèmica, ja que hi ha investigadors que consideren que es trobaria propera al port i d'altres que la situen a la part alta. També hi ha experts que identifiquen Kesse amb altres poblacions del Camp de Tarragona, com Valls.</p>
           <div class="reset"></div>
         </div>
-        <div class="detall">
-          <h1>Època moderna</h1>
+        <div class="detall color_change">
+          <h2>Època moderna</h2>
           <img class="img_detall lazyload" src="images/amfiteatre2.jpg" alt="amfiteatre" width="200px" height="150px">
           <p>
             Al llarg dels segles xvi - xvii, la ciutat representà un centre important de poder al sud de Catalunya. En general, el SXVI va ser una etapa de relativa prosperitat i creixement, sota l'amenaça dels atacs marítims pels otomans i els seus aliats nord-africans, fet que explica la realització d'importants obres de defensa.
@@ -66,8 +80,8 @@
           </p>
           <div class="reset"></div>
         </div>
-        <div class="detall">
-          <h1>Època contemporània</h1>
+        <div class="detall color_change">
+          <h2>Època contemporània</h2>
           <img class="img_detall lazyload" src="images/barriantic.jpg" alt="barri antic" width="200px" height="150px">
           <p>
             La ciutat es va veure molt afectada per la Guerra del Francès (1808-14). Inicialment se'n beneficià, donat que acollí la seu de la Junta de Catalunya i rebé un considerable flux de refugiats, elements tots plegats que estimularen l'activitat ciutadana. Però el maig-juny de 1811 la ciutat va ser víctima de l'atac francès Setge de Tarragona que culminà amb la seva presa a l'assalt i un sagnant saqueig de tres dies. Sota domini francès, patí un altre setge, molt menys mortífer que el primer i finalment, en ser abandonada pels ocupants (19 d'agost de 1813), va ser parcialment volada, perdent-se per sempre diverses construccions monumentals, com el Castell del Patriarca.
@@ -75,8 +89,8 @@
           </p>
           <div class="reset"></div>
         </div>
-        <div class="detall">
-          <h1>Època actual</h1>
+        <div class="detall color_change">
+          <h2>Època actual</h2>
           <img class="img_detall lazyload" src="images/platja.jpg" alt="platja de Tarragona" width="200px" height="150px">
           <p>
             La capital ha anat creixent a mesura que han anat passant els anys, sense perdre la històrica rivalitat amb la ciutat de Reus, i això ha fet que s'hagin destinat grans quantitats de diners pel Port de Tarragona, un dels més importants del Mediterrani occidental, actualment un pol d'atracció del tarragonins. La creixent modernització de la ciutat, juntament amb l'evolució demogràfica que ha patit Catalunya en els últims anys, han fet que la ciutat disposi d'importants vies de comunicació amb l'exterior, com el Port, l'Estació de Tren (molt a prop del Barri del Serrallo), el Corredor del Mediterrani, la proximitat amb l'Aeroport de Reus i les carreteres que porten a València i a Barcelona.
@@ -93,14 +107,25 @@
           <p>Treball fet per Genís Pijuan Casanova</p>
           <p>Assignatura de Eines HTML i CSS aula 1</p>
           <p>Professora Mariona Roca Ros</p>
+          <img class="lazyload" src="images/logo_png.png" alt="logo empresa">
         </div>
         <div  class="grid-item">
-          <p>Fonts d'informació</p>
-          <p><a href="https://ca.wikipedia.org/wiki/Tarragona">Wikipedia de Tarragona</a></p>
-          <p></p><a href="https://ca.wikipedia.org/wiki/Conjunt_arqueol%C3%B2gic_de_T%C3%A0rraco">Tarraco</a></p>
-          <p></p><a href="https://ca.wikipedia.org/wiki/Rambla_Nova_de_Tarragona">Rambla de Tarragona</a></p>
-          <p></p><a href="https://ca.wikipedia.org/wiki/Catedral_de_Tarragona">Catedral de Tarragona</a></p>
-          <p></p><a href="https://pixabay.com/">pixabay</a></p>
+          <p>FONTS D'INFORMACIÓ</p>
+          <p><a class="linkcolor" href="https://ca.wikipedia.org/wiki/Tarragona">Wikipedia de Tarragona</a></p>
+          <p><a class="linkcolor" href="https://ca.wikipedia.org/wiki/Conjunt_arqueol%C3%B2gic_de_T%C3%A0rraco">Tarraco</a></p>
+          <p><a class="linkcolor" href="https://ca.wikipedia.org/wiki/Rambla_Nova_de_Tarragona">Rambla de Tarragona</a></p>
+          <p><a class="linkcolor" href="https://ca.wikipedia.org/wiki/Catedral_de_Tarragona">Catedral de Tarragona</a></p>
+          <p><a class="linkcolor" href="https://pixabay.com/">pixabay</a></p>
+        </div>
+        <div  class="grid-item">
+          <p>PÀGINES</p>
+          <p><a class="linkcolor" href="index.html">Index</a></p>
+          <p><a class="linkcolor"  href="tarraco.html">Tarraco</a></p>
+          <p><a class="linkcolor"  href="catedral.html">Catedral</a></p>
+          <p><a class="linkcolor"  href="rambla.html">Rambla nova</a></p>
+          <p><a class="linkcolor"  href="historia.html">Historia</a></p>
+          <p><a class="linkcolor"  href="links.html">Links</a></p>
+          <p><a class="linkcolor"  href="visitar.html">Visitar</a></p>
         </div>
       </div>
     </footer>
