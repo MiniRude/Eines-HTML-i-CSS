@@ -272,6 +272,13 @@ h3 {
   .submenu {
     display: list-item;
   }
+
+  .grid-container {
+    grid-template-columns: auto;
+    padding-left: 20%;
+    padding-right: 20%;
+    display: grid;
+  }
 }
 
 .one {

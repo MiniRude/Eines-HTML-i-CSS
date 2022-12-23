@@ -269,7 +269,12 @@ h3 {
     .submenu {
         display: list-item;
     }
-
+    .grid-container {
+        display: grid;
+        grid-template-columns: auto;
+        padding-left: 20%;
+        padding-right: 20%;
+    }  
 }
 
 .one {
