@@ -102,9 +102,13 @@ footer a {
     font-size: 10px;
     text-align: center;
 }
+.test{
+    align-items: center;
+}
 
 .video_center{    
     text-align: center;
+    margin: auto;
 }
 
 .imgCercle{

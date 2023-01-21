@@ -5,6 +5,8 @@
     <meta charset="utf-8"/>
     <title>Rambla</title>
     <link rel="stylesheet" href="css/styles.css" />
+    <link rel="stylesheet" href="../node_modules/lite-youtube-embed/src/lite-yt-embed.css" />
+    <script async src="../node_modules/lite-youtube-embed/src/lite-yt-embed.js"></script>
     <script async src="../app.js"></script>
     <script async src="../node_modules/lazysizes/lazysizes.min.js" ></script>
   </head>
@@ -17,9 +19,16 @@
       <div class="container">
         <a href="index.html">
           <picture>
-            <source media="(max-width: 549px)" srcset="images/barri_antic_ver.jpg" />
-            <source media="(min-width: 550px)" srcset="images/barriantic.jpg" />
-            <img src="images/barriantic.jpg" loading="lazy" alt="catedral" width=100% height="400" />
+          <img
+            sizes="(max-width: 1400px) 100vw, 1400px"
+            srcset="
+            images/barriantic_mby5ot_c_scalew_200.avif 200w,
+            images/barriantic_mby5ot_c_scalew_587.avif 587w,
+            images/barriantic_mby5ot_c_scalew_860.avif 860w,
+            images/barriantic_mby5ot_c_scalew_1170.avif 1170w,
+            images/barriantic_mby5ot_c_scalew_1394.avif 1394w,
+            images/barriantic_mby5ot_c_scalew_1400.avif 1400w"
+            src="images/barriantic_mby5ot_c_scalew_1400.avif" loading="lazy" alt="barri antic" width=100% height="400" />
           </picture>
         </a>
         <button onclick="buttonFunction()" id="btn">Menú</button>
@@ -51,7 +60,21 @@
           L'any 2006 es va inaugurar un nou tram de la Rambla, al llarg de l'avinguda del President Lluís Companys i l'avinguda del President Francesc Macià, i que culmina a la plaça de les Corts Catalanes. Amb aquest nou tram la Rambla va passar a tenir 1.000 m de longitud i va esdevenir un passeig des del riu Francolí fins al mar Mediterrani.<br>
         </p>
         <div>
-          <img class="imgelip" loading="lazy" src="images/casc_antic.jpg" alt="Imatge del casc àntic de Tarragona" height="100" >
+          <img class="imgelip" loading="lazy" sizes="(max-width: 1400px) 100vw, 1400px"
+          srcset="
+          images/casc_antic_lldbxj_c_scalew_200.avif 200w,
+          images/casc_antic_lldbxj_c_scalew_420.avif 420w,
+          images/casc_antic_lldbxj_c_scalew_569.avif 569w,
+          images/casc_antic_lldbxj_c_scalew_677.avif 677w,
+          images/casc_antic_lldbxj_c_scalew_799.avif 799w,
+          images/casc_antic_lldbxj_c_scalew_909.avif 909w,
+          images/casc_antic_lldbxj_c_scalew_1009.avif 1009w,
+          images/casc_antic_lldbxj_c_scalew_1096.avif 1096w,
+          images/casc_antic_lldbxj_c_scalew_1196.avif 1196w,
+          images/casc_antic_lldbxj_c_scalew_1338.avif 1338w,
+          images/casc_antic_lldbxj_c_scalew_1396.avif 1396w,
+          images/casc_antic_lldbxj_c_scalew_1400.avif 1400w"
+          src="images/casc_antic_lldbxj_c_scalew_1400.avif" alt="Imatge del casc àntic de Tarragona" height="100" >
         </div>
         <ul class="tarraco_list">
             <li class="multiline_color">Casa Salas Ricomà, modernista (1907).</li>
@@ -62,9 +85,7 @@
             <li class="multiline_color">Edifici d'habitatges de La Caixa, post-racionalista (1951-1953).</li>
             <li class="multiline_color">Edifici del Banc Atlàntic, el més alt de Tarragona.</li>
         </ul>
-        <div class="center_title">
-            <iframe width="100%" height="315" src="https://www.youtube.com/embed/lFOQcxwMRe4" title="Rambla nova YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
-        </div>
+        <div><lite-youtube class="video_center center_title" width="100%" height="315" videoid="lFOQcxwMRe4" style="background-image: url('https://i.ytimg.com/vi/lFOQcxwMRe4/hqdefault.jpg');"></lite-youtube></div>
     </main>
     <footer>
       <div class="grid-container">

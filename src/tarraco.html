@@ -5,6 +5,8 @@
     <meta charset="utf-8"/>
     <title>Tarraco</title>
     <link rel="stylesheet" href="css/styles.css" />
+    <link rel="stylesheet" href="../node_modules/lite-youtube-embed/src/lite-yt-embed.css" />
+    <script async src="../node_modules/lite-youtube-embed/src/lite-yt-embed.js"></script>
     <script async src="../app.js"></script>
     <script async src="../node_modules/lazysizes/lazysizes.min.js" ></script>
   </head>
@@ -17,9 +19,20 @@
       <div class="container">
         <a href="index.html">
           <picture>
-            <source media="(max-width: 549px)" srcset="images/amfiteatre2_ver.jpg" />
-            <source media="(min-width: 550px)" srcset="images/amfiteatre2.jpg" />
-            <img loading="lazy" src="images/amfiteatre2.jpg" alt="catedral" width=100% height="400" />
+            <img 
+            sizes="(max-width: 1400px) 100vw, 1400px"
+            srcset="
+            images/amfiteatre2_quat7r_c_scalew_200.avif 200w,
+            images/amfiteatre2_quat7r_c_scalew_476.avif 476w,
+            images/amfiteatre2_quat7r_c_scalew_670.avif 670w,
+            images/amfiteatre2_quat7r_c_scalew_819.avif 819w,
+            images/amfiteatre2_quat7r_c_scalew_975.avif 975w,
+            images/amfiteatre2_quat7r_c_scalew_1130.avif 1130w,
+            images/amfiteatre2_quat7r_c_scalew_1288.avif 1288w,
+            images/amfiteatre2_quat7r_c_scalew_1396.avif 1396w,
+            images/amfiteatre2_quat7r_c_scalew_1400.avif 1400w"
+            src="images/amfiteatre2_quat7r_c_scalew_1400.avif"
+            loading="lazy" alt="amfiteatre" width=100% height="400">
           </picture>
         </a>
         <button onclick="buttonFunction()" id="btn">Menú</button>
@@ -41,7 +54,14 @@
     <main>
         <h3>Tarraco</h3>
         <div>
-          <img class="imgelip" loading="lazy" src="images/augustus.jpg" alt="Augustus emperador" height="100" >
+          <img class="imgelip" loading="lazy" sizes="(max-width: 1400px) 100vw, 1400px"
+          srcset="
+          images/augustus_nhlm4k_c_scalew_200.avif 200w,
+          images/augustus_nhlm4k_c_scalew_760.avif 760w,
+          images/augustus_nhlm4k_c_scalew_1306.avif 1306w,
+          images/augustus_nhlm4k_c_scalew_1400.avif 1400w"
+          src="images/augustus_nhlm4k_c_scalew_1400.avif"
+          alt="foto de Augustus emperador" height="100" >
           <p class="textautor">Foto de Nemanja Peric en Unsplash</p>
         </div>
         <ul class="tarraco_list">
@@ -53,14 +73,26 @@
             <li class="multiline_color">Amfiteatre:  era un edifici d'espectacles on hi havia lluites de feres, caceres, execucions públiques i combats de gladiadors.</li>
             <li class="multiline_color">Foro local: era el centre de la vida ciutadana. Al voltant d'una gran plaça s'alçaven els edificis principals de la ciutat: la cúria, la basílica, els temples i nombroses botigues.</li>
             <div>
-              <img class="imgquad" loading="lazy" src="images/casc_antic.jpg" alt="Imatge del casc àntic" height="100" >
+              <img class="imgquad" loading="lazy" sizes="(max-width: 1400px) 100vw, 1400px"
+              srcset="
+              images/casc_antic_lldbxj_c_scalew_200.avif 200w,
+              images/casc_antic_lldbxj_c_scalew_420.avif 420w,
+              images/casc_antic_lldbxj_c_scalew_569.avif 569w,
+              images/casc_antic_lldbxj_c_scalew_677.avif 677w,
+              images/casc_antic_lldbxj_c_scalew_799.avif 799w,
+              images/casc_antic_lldbxj_c_scalew_909.avif 909w,
+              images/casc_antic_lldbxj_c_scalew_1009.avif 1009w,
+              images/casc_antic_lldbxj_c_scalew_1096.avif 1096w,
+              images/casc_antic_lldbxj_c_scalew_1196.avif 1196w,
+              images/casc_antic_lldbxj_c_scalew_1338.avif 1338w,
+              images/casc_antic_lldbxj_c_scalew_1396.avif 1396w,
+              images/casc_antic_lldbxj_c_scalew_1400.avif 1400w"
+              src="images/casc_antic_lldbxj_c_scalew_1400.avif" alt="Imatge del casc àntic" height="100" >
               <p class="textautor">Foto de Nemanja Peric en Unsplash</p>
             </div>
             <li class="multiline_color">Teatre: va ser el primer a ser construït, ja en època d'August. Edificat sobre uns antics magatzems portuaris, disposava d´un ampli sector semicircular de grades dividides en tres càvees orientades cap a l´escenari.</li>
         </ul>
-        <div class="center_title">
-            <iframe width="100%" height="315" src="https://www.youtube.com/embed/Lc2w0ucp4vc" title="Tarraco YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>        
-        </div>
+        <div><lite-youtube class="video_center center_title" width="100%" height="315" videoid="Lc2w0ucp4vc" style="background-image: url('https://i.ytimg.com/vi/Lc2w0ucp4vc/hqdefault.jpg');"></lite-youtube></div>
     </main>
     <footer>
       <div class="grid-container">

@@ -5,6 +5,8 @@
     <meta charset="utf-8"/>
     <title>Catedral</title>
     <link rel="stylesheet" href="css/styles.css" />
+    <link rel="stylesheet" href="../node_modules/lite-youtube-embed/src/lite-yt-embed.css" />
+    <script async src="../node_modules/lite-youtube-embed/src/lite-yt-embed.js"></script>
     <script async src="../app.js"></script>
     <script async src="../node_modules/lazysizes/lazysizes.min.js" ></script>
   </head>
@@ -17,9 +19,15 @@
       <div class="container">
         <a href="index.html">
           <picture>
-            <source media="(max-width: 549px)" srcset="images/catedral_ver.jpg" />
-            <source media="(min-width: 550px)" srcset="images/catedral.jpg" />
-            <img src="images/catedral.jpg" loading="lazy" alt="catedral" width=100% height="400" />
+            <img
+              sizes="(max-width: 1400px) 100vw, 1400px"
+              srcset="
+              images/catedral_rnhp2f_c_scalew_200.avif 200w,
+              images/catedral_rnhp2f_c_scalew_591.avif 591w,
+              images/catedral_rnhp2f_c_scalew_891.avif 891w,
+              images/catedral_rnhp2f_c_scalew_1276.avif 1276w,
+              images/catedral_rnhp2f_c_scalew_1400.avif 1400w"
+              src="images/catedral_rnhp2f_c_scalew_1400.avif" loading="lazy" alt="catedral" width=100% height="400" />
           </picture></a>
         <button onclick="buttonFunction()" id="btn">Menú</button>
         <nav id="nav">
@@ -40,7 +48,19 @@
     <main>
         <h3>Catedral</h3>
         <div>
-          <img class="imgCercle" loading="lazy" src="images/Catedral1.jpg" alt="Imatge de la catedral desde dalt" height="100" >
+          <img class="imgCercle" loading="lazy" sizes="(max-width: 1400px) 100vw, 1400px"
+          srcset="
+          images/Catedral1_n6wc2e_c_scalew_200.avif 200w,
+          images/Catedral1_n6wc2e_c_scalew_417.avif 417w,
+          images/Catedral1_n6wc2e_c_scalew_583.avif 583w,
+          images/Catedral1_n6wc2e_c_scalew_742.avif 742w,
+          images/Catedral1_n6wc2e_c_scalew_915.avif 915w,
+          images/Catedral1_n6wc2e_c_scalew_1095.avif 1095w,
+          images/Catedral1_n6wc2e_c_scalew_1239.avif 1239w,
+          images/Catedral1_n6wc2e_c_scalew_1372.avif 1372w,
+          images/Catedral1_n6wc2e_c_scalew_1397.avif 1397w,
+          images/Catedral1_n6wc2e_c_scalew_1400.avif 1400w"
+          src="images/Catedral1_n6wc2e_c_scalew_1400.avif" alt="Imatge de la catedral desde dalt" height="100" >
           <p class="textautor">Foto de Spolyakov</p>
         </div>
         <p>
@@ -52,7 +72,19 @@
         </p>
         <h4>Que veure</h4>
         <div>
-          <img class="imgCercle" loading="lazy" src="images/Catedral2.jpg" alt="Imatge de la Catedral al fons del carrer" height="100" >
+          <img class="imgCercle" loading="lazy" sizes="(max-width: 1400px) 100vw, 1400px"
+          srcset="
+          images/Catedral2_edxrlj_c_scalew_200.avif 200w,
+          images/Catedral2_edxrlj_c_scalew_391.avif 391w,
+          images/Catedral2_edxrlj_c_scalew_557.avif 557w,
+          images/Catedral2_edxrlj_c_scalew_697.avif 697w,
+          images/Catedral2_edxrlj_c_scalew_878.avif 878w,
+          images/Catedral2_edxrlj_c_scalew_1026.avif 1026w,
+          images/Catedral2_edxrlj_c_scalew_1217.avif 1217w,
+          images/Catedral2_edxrlj_c_scalew_1395.avif 1395w,
+          images/Catedral2_edxrlj_c_scalew_1389.avif 1389w,
+          images/Catedral2_edxrlj_c_scalew_1400.avif 1400w"
+          src="images/Catedral2_edxrlj_c_scalew_1400.avif" alt="Imatge de la Catedral al fons del carrer" height="100" >
           <p class="textautor">Foto de Bas Linders</p>
         </div>
         <ul class="tarraco_list">
@@ -62,9 +94,7 @@
             <li class="multiline_color">Claustre</li>
             <li class="multiline_color">Campanar</li>
         </ul>
-        <div class="center_title">
-            <iframe width="100%" height="315" src="https://www.youtube.com/embed/g5wM5tug5fw" title="Catedral YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
-        </div>
+        <div><lite-youtube class="video_center" width="100%" height="315" videoid="g5wM5tug5fw" style="background-image: url('https://i.ytimg.com/vi/g5wM5tug5fw/hqdefault.jpg');"></lite-youtube></div>
     </main>
     <footer>
       <div class="grid-container">
