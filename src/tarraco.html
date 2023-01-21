@@ -5,13 +5,13 @@
     <meta charset="utf-8"/>
     <title>Tarraco</title>
     <link rel="stylesheet" href="css/styles.css" />
-    <script src="../app.js"></script>
-    <script src="../node_modules/lazysizes/lazysizes.min.js" async=""></script>
+    <script async src="../app.js"></script>
+    <script async src="../node_modules/lazysizes/lazysizes.min.js" async=""></script>
   </head>
   <body>
     <header>
       <div class="logodiv">
-        <img class="lazyload logoimg" src="images/logo_png.png" alt="logo empresa">
+        <img class="logoimg" loading="lazy" src="images/logo_png.png" alt="logo empresa">
         <p class="logotext">Tota la informació que necessites al teu abast</p> 
       </div>
       <div class="container">
@@ -19,7 +19,7 @@
           <picture>
             <source media="(max-width: 549px)" srcset="images/amfiteatre2_ver.jpg" />
             <source media="(min-width: 550px)" srcset="images/amfiteatre2.jpg" />
-            <img src="images/amfiteatre2.jpg" alt="catedral" width=100% height="400" />
+            <img loading="lazy" src="images/amfiteatre2.jpg" alt="catedral" width=100% height="400" />
           </picture>
         </a>
         <button onclick="buttonFunction()" id="btn">Menú</button>
@@ -41,7 +41,7 @@
     <main>
         <h3>Tarraco</h3>
         <div>
-          <img class="lazyload imgelip" src="images/augustus.jpg" alt="Augustus emperador" height="100" >
+          <img class="imgelip" loading="lazy" src="images/augustus.jpg" alt="Augustus emperador" height="100" >
           <p class="textautor">Foto de Nemanja Peric en Unsplash</p>
         </div>
         <ul class="tarraco_list">
@@ -53,13 +53,13 @@
             <li class="multiline_color">Amfiteatre:  era un edifici d'espectacles on hi havia lluites de feres, caceres, execucions públiques i combats de gladiadors.</li>
             <li class="multiline_color">Foro local: era el centre de la vida ciutadana. Al voltant d'una gran plaça s'alçaven els edificis principals de la ciutat: la cúria, la basílica, els temples i nombroses botigues.</li>
             <div>
-              <img class="lazyload imgquad" src="images/casc_antic.jpg" alt="Imatge del casc àntic" height="100" >
+              <img class="imgquad" loading="lazy" src="images/casc_antic.jpg" alt="Imatge del casc àntic" height="100" >
               <p class="textautor">Foto de Nemanja Peric en Unsplash</p>
             </div>
             <li class="multiline_color">Teatre: va ser el primer a ser construït, ja en època d'August. Edificat sobre uns antics magatzems portuaris, disposava d´un ampli sector semicircular de grades dividides en tres càvees orientades cap a l´escenari.</li>
         </ul>
         <div class="center_title">
-            <iframe width="100%" height="315" class="lazyload" src="https://www.youtube.com/embed/Lc2w0ucp4vc" title="Tarraco YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>        
+            <iframe width="100%" height="315" src="https://www.youtube.com/embed/Lc2w0ucp4vc" title="Tarraco YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>        
         </div>
     </main>
     <footer>
@@ -68,7 +68,7 @@
           <p>Treball fet per Genís Pijuan Casanova</p>
           <p>Assignatura de Eines HTML i CSS aula 1</p>
           <p>Professora Mariona Roca Ros</p>
-          <img class="lazyload" src="images/logo_png.png" alt="logo empresa">
+          <img loading="lazy" src="images/logo_png.png" alt="logo empresa">
         </div>
         <div  class="grid-item">
           <p>FONTS D'INFORMACIÓ</p>

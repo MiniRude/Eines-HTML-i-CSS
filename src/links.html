@@ -5,13 +5,13 @@
     <meta charset="utf-8"/>
     <title>Links</title>
     <link rel="stylesheet" href="css/styles.css" />
-    <script src="../app.js"></script>
-    <script src="../node_modules/lazysizes/lazysizes.min.js" async=""></script>
+    <script async src="../app.js"></script>
+    <script async src="../node_modules/lazysizes/lazysizes.min.js" async=""></script>
   </head>
   <body>
     <header>
       <div class="logodiv">
-        <img class="lazyload logoimg" src="images/logo_png.png" alt="logo empresa">
+        <img class="logoimg" loading="lazy" src="images/logo_png.png" alt="logo empresa">
         <p class="logotext">Tota la informació que necessites al teu abast</p> 
       </div>
       <div class="container">
@@ -19,7 +19,7 @@
           <picture>
             <source media="(max-width: 549px)" srcset="images/tarragona1_ver.jpg" />
             <source media="(min-width: 550px)" srcset="images/tarragona1.jpg" />
-            <img src="images/tarragona1.jpg" alt="catedral" width=100% height="400" />
+            <img src="images/tarragona1.jpg" loading="lazy" alt="catedral" width=100% height="400" />
           </picture>
         </a>
         <button onclick="buttonFunction()" id="btn">Menú</button>
@@ -54,7 +54,7 @@
           <p>Treball fet per Genís Pijuan Casanova</p>
           <p>Assignatura de Eines HTML i CSS aula 1</p>
           <p>Professora Mariona Roca Ros</p>
-          <img class="lazyload" src="images/logo_png.png" alt="logo empresa">
+          <img loading="lazy" src="images/logo_png.png" alt="logo empresa">
         </div>
         <div  class="grid-item">
           <p>FONTS D'INFORMACIÓ</p>
