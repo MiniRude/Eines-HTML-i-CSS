@@ -47,7 +47,7 @@
 94C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\node-gyp-build133186306294450844 1
 131C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_drop.c133186306326805021 0
 108C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\css-tree\lib\syntax\function133186306362665191 1
-71C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist133187706357889758 1
+71C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist133187709401282223 1
 88C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\escalade133186306296071686 1
 95C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\npm-run-all\bin133186306305611368 1
 118C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\es-abstract\2021\IsConcatSpreadable.js133186306411424420 0
@@ -132,7 +132,7 @@
 120C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\string.prototype.trimstart\test\index.js133186306297493070 0
 119C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\resolve\test\resolver\dot_main\index.js133186306330311264 0
 140C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\glib\gspawn.h133117882010000000 0
-84C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\src\historia.html133187694904020764 0
+84C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\src\historia.html133187708412556972 0
 152C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\sharp\vendor\8.13.3\win32-x64\include\pango-1.0\pango\pango-attributes.h133117882010000000 0
 143C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gio\gsrvtarget.h133117882010000000 0
 90C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\is-weakref133186306298111407 1
@@ -142,7 +142,7 @@
 95C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\source-map\dist133186306319763859 1
 97C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\yallist\README.md133186306292785297 0
 105C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\browserslist\package.json133186306296994409 0
-81C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\src\index.html133187704611253551 0
+81C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\src\index.html133187708412616819 0
 113C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\htmlnano\docs\docs\040-presets.md133186306334809240 0
 117C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\@swc\helpers\src\_async_generator.mjs133186306353634543 0
 109C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\is-number-object\CHANGELOG.md133186306296331005 0
@@ -151,7 +151,7 @@
 108C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\es-abstract\2017\ToObject.js133186306465802610 0
 123C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\sharp\node_modules\detect-libc\package.json133186306292137189 0
 147C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gio\gasyncinitable.h133117882010000000 0
-81C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\src\links.html133187694904020764 0
+81C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\src\links.html133187708412616819 0
 109C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\path-is-absolute\package.json133186306288112714 0
 112C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\yaml\dist\resolveSeq-d03cb037.js133186306323613767 0
 99C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\css-tree\lib\parser133186306357584585 1
@@ -185,7 +185,7 @@
 125C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\sharp\vendor\8.13.3\win32-x64\include\expat.h133117882010000000 0
 139C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\sharp\vendor\8.13.3\win32-x64\include\harfbuzz\hb-ot-meta.h133117882010000000 0
 149C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\sharp\vendor\8.13.3\win32-x64\include\pango-1.0\pango\pango-gravity.h133117882010000000 0
-83C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\src\visitar.html133187694904030750 0
+83C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\src\visitar.html133187708412616819 0
 104C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\function-bind\.npmignore133186306289159972 0
 125C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\msgpackr-extract\src\.vs\ProjectSettings.json133186306307097383 0
 118C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\json-parse-even-better-errors\index.js133186306288172555 0
@@ -199,7 +199,7 @@
 114C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\es-abstract\2022\HasOwnProperty.js133186306400325066 0
 92C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\src\images\amfiteatre.jpg133127552709296805 0
 117C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\es-abstract\2022\BigInt\bitwiseXOR.js133186306358394504 0
-96C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\barriantic.0e985748.jpeg133187706355077350 0
+96C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\barriantic.0e985748.jpeg133187709396399149 0
 105C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\csso\lib\replace\color.js133186306306798185 0
 153C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gio\gpollableinputstream.h133117882010000000 0
 93C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\src\images\amfiteatre2.jpg133127552852968085 0
@@ -832,7 +832,7 @@
 111C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\caniuse-lite\data\regions\AI.js133186306306030239 0
 89C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\is-symbol133186306299796899 1
 124C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\supports-preserve-symlinks-flag\package.json133186306294829842 0
-90C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\index.2e01be26.css133187706357670340 0
+90C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\index.2e01be26.css133187709401012823 0
 121C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\string.prototype.padend\implementation.js133186306294849859 0
 94C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\string_decoder133186306290877352 1
 99C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\side-channel\.nycrc133186306289937878 0
@@ -1197,7 +1197,7 @@
 119C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\caniuse-lite\data\features\wake-lock.js133186306432776350 0
 91C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\yaml\seq.js133186306326316341 0
 86C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\stable133186306292176971 1
-94C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\augustus.521ab7c4.jpeg133187706308213153 0
+94C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\augustus.521ab7c4.jpeg133187709384823532 0
 121C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\read-pkg\node_modules\path-type\readme.md133186306291206460 0
 111C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\es-abstract\helpers\callBind.js133186306362504359 0
 122C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\es-abstract\2020\CreateIterResultObject.js133186306379594654 0
@@ -1518,7 +1518,7 @@
 112C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\htmlnano\lib\modules\minifyJs.js133186306308423848 0
 95C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\which\bin\which133186306293962152 0
 147C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\sharp\vendor\8.13.3\win32-x64\include\harfbuzz\hb-gobject-structs.h133117882010000000 0
-98C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\catedral_ver.71400376.jpeg133187706355067548 0
+98C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\catedral_ver.71400376.jpeg133187709396399149 0
 133C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\@parcel\transformer-postcss\lib\PostCSSTransformer.js133186306297443187 0
 96C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\pidtree\index.js133186306291266300 0
 116C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\es-abstract\2022\Number\remainder.js133186306434890694 0
@@ -1629,7 +1629,7 @@
 118C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\es-abstract\2015\TestIntegrityLevel.js133186306451554829 0
 111C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\utility-types\dist\index.js.map133186306298639997 0
 95C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\resolve\.github133186306357074581 1
-93C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\index.79edbaf6.js.map133187706357869819 0
+93C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\index.79edbaf6.js.map133187709401242210 0
 123C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\caniuse-lite\data\features\online-status.js133186306417304424 0
 108C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\function.prototype.name\test133186306306279576 1
 115C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\utility-types\dist\utility-types.js133186306293942209 0
@@ -1742,7 +1742,7 @@
 91C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\sharp\build133186306593811464 1
 140C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\sharp\vendor\8.13.3\win32-x64\include\libxml2\libxml\xpath.h133117882010000000 0
 115C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\type-fest\source\literal-union.d.ts133186306310019567 0
-99C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\castellers_svg.bd47be67.svg133187706309539602 0
+99C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\castellers_svg.bd47be67.svg133187709386349448 0
 108C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\type-fest\source\opaque.d.ts133186306314717347 0
 111C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\caniuse-lite\data\regions\BA.js133186306330002087 0
 114C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\type-fest\source\package-json.d.ts133186306315565076 0
@@ -1771,7 +1771,7 @@
 110C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\type-fest\source\value-of.d.ts133186306326735215 0
 105C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\tunnel-agent\package.json133186306288052882 0
 156C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\glib\deprecated\gcompletion.h133117882010000000 0
-89C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\index.79edbaf6.js133187706357680329 0
+89C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\index.79edbaf6.js133187709401002854 0
 95C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\tslib\README.md133186306296904699 0
 126C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\es-abstract\2022\EnumerableOwnPropertyNames.js133186306390364453 0
 109C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\source-map\dist\source-map.js133186306314727315 0
@@ -1829,7 +1829,7 @@
 92C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\terser\tools133186306339506676 1
 104C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\terser\tools\domprops.js133186306322815698 0
 126C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\es-abstract\2021\CreateRegExpStringIterator.js133186306382004612 0
-94C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\index.2e01be26.css.map133187706357869819 0
+94C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\index.2e01be26.css.map133187709401242210 0
 135C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\sharp\vendor\8.13.3\win32-x64\include\harfbuzz\hb-set.h133117882010000000 0
 101C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\terser\tools\exit.cjs133186306293084492 0
 127C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\@parcel\core\test\fixtures\config-node-pipeline133186306293892352 1
@@ -2179,7 +2179,7 @@
 120C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\npm-run-all\bin\common\parse-cli-args.js133186306293503401 0
 169C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\sharp\vendor\8.13.3\win32-x64\include\gdk-pixbuf-2.0\gdk-pixbuf\gdk-pixbuf-autocleanups.h133117882010000000 0
 107C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\es-abstract\helpers\sign.js133186306446935231 0
-95C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\Catedral2.8f7ebe49.jpeg133187706355067548 0
+95C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\Catedral2.8f7ebe49.jpeg133187709396399149 0
 109C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\svgo\plugins\removeViewBox.js133186306335218173 0
 114C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\htmlnano\lib\modules\minifyJson.js133186306309022232 0
 111C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\caniuse-lite\data\regions\LA.js133186306410924336 0
@@ -3185,6 +3185,7 @@
 125C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\htmlnano\lib\modules\removeEmptyAttributes.js133186306315694825 0
 104C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\escalade\sync\index.d.ts133186306297981758 0
 146C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gio\gemblemedicon.h133117882010000000 0
+96C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\tarragona1.988d9b9e.avif133187709293713229 0
 120C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\es-abstract\2017\IsAccessorDescriptor.js133186306408884764 0
 107C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\lazysizes\plugins\artdirect133186306341174543 1
 147C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gio\gfileattribute.h133117882010000000 0
@@ -3362,7 +3363,7 @@
 111C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\es-abstract\helpers\setProto.js133186306446915380 0
 108C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\resolve\test\node_path\x\ccc133186306328406349 1
 143C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\sharp\vendor\8.13.3\win32-x64\include\freetype2\freetype\config133117882010000000 1
-82C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\index.html133187706357660367 0
+82C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\index.html133187709400972994 0
 125C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\resolve\test\resolver\without_basedir\main.js133186306341004996 0
 109C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\es-abstract\2022\ToNumeric.js133186306465692910 0
 145C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\sharp\vendor\8.13.3\win32-x64\include\freetype2\freetype\ftbbox.h133117882010000000 0
@@ -3535,7 +3536,7 @@
 118C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\cosmiconfig\dist\getDirectory.d.ts.map133186306309810128 0
 124C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\sharp\node_modules\semver\functions\parse.js133186306323683381 0
 99C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\is-string\README.md133186306297911940 0
-93C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\logo_png.f686ec02.png133187706355027438 0
+93C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\logo_png.f686ec02.png133187709396389179 0
 129C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\sharp\node_modules\semver\functions\prerelease.js133186306324700649 0
 124C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\sharp\node_modules\semver\functions\rsort.js133186306325857565 0
 111C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\css-tree\lib\tokenizer\utils.js133186306362144739 0
@@ -4398,7 +4399,7 @@
 117C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\node-abi\node_modules\semver\index.js133186306309002354 0
 137C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\@babel\highlight\node_modules\supports-color\package.json133186306288401941 0
 116C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\node-abi\node_modules\semver\LICENSE133186306288401941 0
-84C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\visitar.html133187706357670340 0
+84C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\visitar.html133187709400982909 0
 121C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\node-abi\node_modules\semver\package.json133186306328865123 0
 105C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\es-to-primitive\README.md133186306306020263 0
 122C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\es-abstract\2016\OrdinarySetPrototypeOf.js133186306432277678 0
@@ -5012,7 +5013,7 @@
 160C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node\parcel_sourcemap_wasm_bg.wasm133186306354644792 0
 118C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\es-abstract\2016\IsConcatSpreadable.js133186306411194639 0
 108C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\is-core-module\test\index.js133186306292885037 0
-101C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\barri_antic_ver.c48156b9.jpeg133187706308193209 0
+101C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\barri_antic_ver.c48156b9.jpeg133187709384823532 0
 108C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\es-abstract\2015\MakeDate.js133186306424394261 0
 112C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\htmlparser2\lib\FeedHandler.d.ts133186306305631301 0
 123C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\es-abstract\2015\CreateListFromArrayLike.js133186306379934923 0
@@ -5801,7 +5802,7 @@
 112C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\es-abstract\2020\Number\index.js133186306406314775 0
 116C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\es-abstract\2020\Number\leftShift.js133186306422964915 0
 115C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\es-abstract\2020\Number\multiply.js133186306428564651 0
-97C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\amfiteatre2.b6368d72.jpeg133187706355037414 0
+97C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\amfiteatre2.b6368d72.jpeg133187709396399149 0
 116C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\es-abstract\2020\Number\remainder.js133186306434711182 0
 120C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\es-abstract\2020\Number\sameValueZero.js133186306439837474 0
 111C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\css-tree\lib\syntax\node\Raw.js133186306356624423 0
@@ -5865,7 +5866,7 @@
 118C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\es-abstract\2019\IsConcatSpreadable.js133186306411294745 0
 96C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\css-tree\LICENSE133186306288252343 0
 112C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\es-abstract\2019\IsExtensible.js133186306412274450 0
-82C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\links.html133187706357670340 0
+82C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\links.html133187709401012823 0
 119C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\es-abstract\2019\IsSharedArrayBuffer.js133186306415184677 0
 122C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\caniuse-lite\data\features\css-overflow.js133186306381234420 0
 114C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\es-abstract\2019\IsStringPrefix.js133186306415384680 0
@@ -6661,7 +6662,6 @@
 128C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\css-select\lib\pseudo-selectors\filters.d.ts.map133186306308194444 0
 123C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\css-tree\lib\definition-syntax\tokenizer.js133186306361284521 0
 118C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\css-tree\lib\definition-syntax\walk.js133186306362954984 0
-96C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\tarragona1.13c7e151.jpeg133187706355057550 0
 112C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\css-tree\lib\convertor\create.js133186306310872445 0
 111C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\css-tree\lib\convertor\index.js133186306335238099 0
 119C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\css-tree\lib\common\OffsetToLocation.js133186306354074323 0
@@ -6950,7 +6950,7 @@
 111C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\caniuse-lite\data\regions\TM.js133186306430894379 0
 111C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\caniuse-lite\data\regions\TN.js133186306430924300 0
 111C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\caniuse-lite\data\regions\TO.js133186306430954653 0
-94C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\catedral.7784de40.jpeg133187706308193209 0
+94C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\catedral.7784de40.jpeg133187709384813567 0
 111C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\caniuse-lite\data\regions\TT.js133186306431173310 0
 111C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\caniuse-lite\data\regions\TV.js133186306431253542 0
 97C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\@babel\code-frame133186306291196486 1
@@ -7089,7 +7089,7 @@
 119C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\caniuse-lite\data\features\css-table.js133186306383229778 0
 129C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\caniuse-lite\data\features\css-text-align-last.js133186306383284771 0
 125C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\caniuse-lite\data\features\css-text-indent.js133186306383354598 0
-84C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\tarraco.html133187706357670340 0
+84C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\tarraco.html133187709400982909 0
 126C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\caniuse-lite\data\features\css-text-justify.js133186306383394506 0
 126C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\caniuse-lite\data\features\css-text-spacing.js133186306383745114 0
 124C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\caniuse-lite\data\features\css-textshadow.js133186306383924622 0
@@ -7629,7 +7629,7 @@
 107C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\@parcel\transformer-svg\src133186306297024319 1
 117C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\@parcel\transformer-svg\src\inline.js133186306293633035 0
 123C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\@parcel\transformer-svg\lib\dependencies.js133186306289409281 0
-96C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\casc_antic.29fc1007.jpeg133187706355077350 0
+96C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\casc_antic.29fc1007.jpeg133187709396419098 0
 117C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\@parcel\transformer-svg\lib\inline.js133186306292346470 0
 122C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\@parcel\transformer-react-refresh-wrap\src133186306294760028 1
 141C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\@parcel\transformer-react-refresh-wrap\src\helpers\helpers.js133186306291156605 0
@@ -7960,7 +7960,7 @@
 114C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\@parcel\core\src\Transformation.js133186306375794506 0
 105C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\@parcel\core\src\types.js133186306376094301 0
 116C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\@parcel\core\src\UncommittedAsset.js133186306376314643 0
-92C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\map_svg.a18c568e.svg133187706357650393 0
+92C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\map_svg.a18c568e.svg133187709400564030 0
 105C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\@parcel\core\src\utils.js133186306376524560 0
 126C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\@parcel\core\src\requests\AssetGraphRequest.js133186306322187371 0
 122C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\@parcel\core\src\requests\ConfigRequest.js133186306332056595 0
@@ -8076,7 +8076,7 @@
 124C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\@jridgewell\gen-mapping\dist\gen-mapping.mjs133186306296201340 0
 104C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\@babel\highlight\LICENSE133186306288381995 0
 115C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\@babel\highlight\node_modules\chalk133186306294610428 1
-93C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\index.ed7d8891.js.map133187706357869819 0
+93C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\index.ed7d8891.js.map133187709401242210 0
 120C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\@babel\highlight\node_modules\color-name133186306294570528 1
 118C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\@babel\highlight\node_modules\has-flag133186306290787580 1
 126C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\@babel\highlight\node_modules\has-flag\license133186306290177329 0
@@ -8119,12 +8119,12 @@
 91C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\.bin\semver133186306472275305 0
 95C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\.bin\semver.cmd133186306472275305 0
 94C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\node_modules\.bin\which.ps1133186306472345106 0
-101C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\amfiteatre2_ver.33e323de.jpeg133187706308193209 0
-96C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\aqueducte1.0286b510.jpeg133187706308203175 0
-85C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\catedral.html133187706357670340 0
-95C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\Catedral1.372f8b63.jpeg133187706308203175 0
-85C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\historia.html133187706357670340 0
-89C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\index.ed7d8891.js133187706357670340 0
-92C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\platja.88c0767e.jpeg133187706355077350 0
-83C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\rambla.html133187706357670340 0
-100C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\tarragona1_ver.c4deda46.jpeg133187706308193209 0
+101C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\amfiteatre2_ver.33e323de.jpeg133187709384823532 0
+96C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\aqueducte1.0286b510.jpeg133187709384823532 0
+85C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\catedral.html133187709400982909 0
+95C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\Catedral1.372f8b63.jpeg133187709384823532 0
+85C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\historia.html133187709400992885 0
+89C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\index.ed7d8891.js133187709400992885 0
+92C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\platja.88c0767e.jpeg133187709396399149 0
+83C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\rambla.html133187709400982909 0
+100C:\Users\GenisPijuan\Desktop\master\Eines HTML i CSS\PAC3_gpijuanc\dist\tarragona1_ver.c4deda46.jpeg133187709384823532 0
